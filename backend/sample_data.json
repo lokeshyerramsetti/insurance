@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Secure Future Term Life",
+    "policy_type": "Term Life",
+    "premium": 5000,
+    "coverage_amount": 1000000
+  },
+  {
+    "id": 2,
+    "name": "Health Shield Plan",
+    "policy_type": "Health",
+    "premium": 3000,
+    "coverage_amount": 500000
+  },
+  {
+    "id": 3,
+    "name": "Car Protect Plan",
+    "policy_type": "Vehicle",
+    "premium": 2000,
+    "coverage_amount": 300000
+  }
+]
